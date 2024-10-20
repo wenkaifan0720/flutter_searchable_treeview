@@ -7,7 +7,7 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_searchable_treeview/flutter_searchable_treeview.dart';
+import 'package:flutter_searchable_treeview2/flutter_searchable_treeview.dart';
 import 'package:text_search/text_search.dart';
 
 extension ListExt<T> on List<T>? {

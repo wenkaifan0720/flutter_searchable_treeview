@@ -4,8 +4,8 @@
 // license that can be found in the LICENSE file or at
 // https://developers.google.com/open-source/licenses/bsd
 
-import 'primitives/key_provider.dart';
-import 'primitives/tree_node.dart';
+import 'key_provider.dart';
+import 'tree_node.dart';
 
 /// Copies nodes to unmodifiable list, assigning missing keys and checking for duplicates.
 List<TreeNode> copyTreeNodes(List<TreeNode>? nodes) {

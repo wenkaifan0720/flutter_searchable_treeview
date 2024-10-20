@@ -7,7 +7,7 @@
 import 'package:flutter/material.dart';
 
 import 'copy_tree_nodes.dart';
-import 'primitives/tree_node.dart';
+import 'tree_node.dart';
 
 class TreeView extends StatefulWidget {
   /// List of root level tree nodes.
